@@ -1,13 +1,13 @@
 /* Light mode */
 body {
-  background-color: #d6ddec;
+  background-color: #f3d0db;
   color: #121717;
 }
 
 /* Dark mode */
 .dark-mode {
   background-color: #121717;
-  color: #c9c9c9;
+  color: #f5e6e6;
 }
 
 #chat-window {
@@ -28,7 +28,7 @@ body {
   border-radius: 15px;
   display: inline-block;
   position: relative;
-  background-color: #efefef;
+  background-color: #f5e6e6;
   min-width: 26px;
   border-top-left-radius: 0;
   word-wrap: break-word;
@@ -51,7 +51,7 @@ body {
 }
 
 .message-box.my-text.dark {
-  background-color: #0f4c9e;
+  background-color: #f55291;
 }
 
 .message-box.dark {
@@ -116,7 +116,7 @@ body {
 
 #upload-button {
   color: white;
-  background-color: #007bff;
+  background-color: #f55291;
   border: none;
   padding: 5px 10px;
   border-radius: 5px;
@@ -133,13 +133,13 @@ body {
 .send i {
   display: block;
   width: 25px;
-  color: #125ee5;
+  color: #f55291;
 }
 
 .reset i {
   display: block;
   width: 25px;
-  color: #125ee5;
+  color: #f55291;
 }
 
 
